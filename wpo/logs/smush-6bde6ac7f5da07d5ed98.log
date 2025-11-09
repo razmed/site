@@ -1,0 +1,695 @@
+[2025-07-26 14:43:00 : INFO] - Re_Smush_It_Task server status: Online 
+[2025-07-26 14:43:03 : INFO] - A total of 98 tasks of type smush found and will be processed in this iteration 
+[2025-07-26 14:43:03 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-07-26 14:43:03 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-07-26 14:43:03 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2025-07-26 14:43:03 : INFO] - Re_Smush_It_Task - Attachment ID : 1475, Started on : July 26, 2025 02:43:01 
+[2025-07-26 14:43:03 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:03 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:03 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:03 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:03 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2025-07-26 14:43:03 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2025-07-26 14:43:03 : INFO] - Re_Smush_It_Task - Attachment ID : 1476, Started on : July 26, 2025 02:43:01 
+[2025-07-26 14:43:03 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:03 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:04 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:04 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2025-07-26 14:43:04 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2025-07-26 14:43:04 : INFO] - Re_Smush_It_Task - Attachment ID : 1477, Started on : July 26, 2025 02:43:01 
+[2025-07-26 14:43:04 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:04 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:04 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:04 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2025-07-26 14:43:04 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2025-07-26 14:43:04 : INFO] - Re_Smush_It_Task - Attachment ID : 1478, Started on : July 26, 2025 02:43:01 
+[2025-07-26 14:43:04 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:05 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:05 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:05 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:05 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2025-07-26 14:43:05 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2025-07-26 14:43:05 : INFO] - Re_Smush_It_Task - Attachment ID : 1486, Started on : July 26, 2025 02:43:01 
+[2025-07-26 14:43:05 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:05 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:06 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:06 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:06 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2025-07-26 14:43:06 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2025-07-26 14:43:06 : INFO] - Re_Smush_It_Task - Attachment ID : 1504, Started on : July 26, 2025 02:43:01 
+[2025-07-26 14:43:06 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:06 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:06 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:06 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:06 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2025-07-26 14:43:06 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2025-07-26 14:43:06 : INFO] - Re_Smush_It_Task - Attachment ID : 1582, Started on : July 26, 2025 02:43:01 
+[2025-07-26 14:43:06 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:06 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:06 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:06 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:06 : INFO] - Completed processing task with ID : 7, and type 'smush' 
+[2025-07-26 14:43:06 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2025-07-26 14:43:06 : INFO] - Re_Smush_It_Task - Attachment ID : 1627, Started on : July 26, 2025 02:43:01 
+[2025-07-26 14:43:06 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:07 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:07 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:07 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:07 : INFO] - Completed processing task with ID : 8, and type 'smush' 
+[2025-07-26 14:43:07 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2025-07-26 14:43:07 : INFO] - Re_Smush_It_Task - Attachment ID : 1634, Started on : July 26, 2025 02:43:01 
+[2025-07-26 14:43:07 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:07 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:07 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:07 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:07 : INFO] - Completed processing task with ID : 9, and type 'smush' 
+[2025-07-26 14:43:07 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2025-07-26 14:43:07 : INFO] - Re_Smush_It_Task - Attachment ID : 1635, Started on : July 26, 2025 02:43:01 
+[2025-07-26 14:43:07 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:08 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:08 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:08 : INFO] - Completed processing task with ID : 10, and type 'smush' 
+[2025-07-26 14:43:08 : INFO] - Processing task with ID : 11, and type 'smush' 
+[2025-07-26 14:43:08 : INFO] - Re_Smush_It_Task - Attachment ID : 1662, Started on : July 26, 2025 02:43:01 
+[2025-07-26 14:43:08 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:08 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:09 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:09 : INFO] - Completed processing task with ID : 11, and type 'smush' 
+[2025-07-26 14:43:09 : INFO] - Processing task with ID : 12, and type 'smush' 
+[2025-07-26 14:43:09 : INFO] - Re_Smush_It_Task - Attachment ID : 1668, Started on : July 26, 2025 02:43:01 
+[2025-07-26 14:43:09 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:09 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:09 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:09 : INFO] - Completed processing task with ID : 12, and type 'smush' 
+[2025-07-26 14:43:09 : INFO] - Processing task with ID : 13, and type 'smush' 
+[2025-07-26 14:43:09 : INFO] - Re_Smush_It_Task - Attachment ID : 1704, Started on : July 26, 2025 02:43:01 
+[2025-07-26 14:43:09 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:09 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:10 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:10 : INFO] - Completed processing task with ID : 13, and type 'smush' 
+[2025-07-26 14:43:10 : INFO] - Processing task with ID : 14, and type 'smush' 
+[2025-07-26 14:43:10 : INFO] - Re_Smush_It_Task - Attachment ID : 1709, Started on : July 26, 2025 02:43:01 
+[2025-07-26 14:43:10 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:10 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:10 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:10 : INFO] - Completed processing task with ID : 14, and type 'smush' 
+[2025-07-26 14:43:10 : INFO] - Processing task with ID : 15, and type 'smush' 
+[2025-07-26 14:43:10 : INFO] - Re_Smush_It_Task - Attachment ID : 1717, Started on : July 26, 2025 02:43:01 
+[2025-07-26 14:43:10 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:10 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:11 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:11 : INFO] - Completed processing task with ID : 15, and type 'smush' 
+[2025-07-26 14:43:11 : INFO] - Processing task with ID : 16, and type 'smush' 
+[2025-07-26 14:43:11 : INFO] - Re_Smush_It_Task - Attachment ID : 1718, Started on : July 26, 2025 02:43:01 
+[2025-07-26 14:43:11 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:11 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:11 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:11 : INFO] - Completed processing task with ID : 16, and type 'smush' 
+[2025-07-26 14:43:11 : INFO] - Processing task with ID : 17, and type 'smush' 
+[2025-07-26 14:43:11 : INFO] - Re_Smush_It_Task - Attachment ID : 1719, Started on : July 26, 2025 02:43:01 
+[2025-07-26 14:43:11 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:11 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:12 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:12 : INFO] - Completed processing task with ID : 17, and type 'smush' 
+[2025-07-26 14:43:12 : INFO] - Processing task with ID : 18, and type 'smush' 
+[2025-07-26 14:43:12 : INFO] - Re_Smush_It_Task - Attachment ID : 1720, Started on : July 26, 2025 02:43:01 
+[2025-07-26 14:43:12 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:12 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:12 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:12 : INFO] - Completed processing task with ID : 18, and type 'smush' 
+[2025-07-26 14:43:12 : INFO] - Processing task with ID : 19, and type 'smush' 
+[2025-07-26 14:43:12 : INFO] - Re_Smush_It_Task - Attachment ID : 1721, Started on : July 26, 2025 02:43:01 
+[2025-07-26 14:43:12 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:13 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:13 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:13 : INFO] - Completed processing task with ID : 19, and type 'smush' 
+[2025-07-26 14:43:13 : INFO] - Processing task with ID : 20, and type 'smush' 
+[2025-07-26 14:43:13 : INFO] - Re_Smush_It_Task - Attachment ID : 1722, Started on : July 26, 2025 02:43:01 
+[2025-07-26 14:43:13 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:13 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:14 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:14 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:14 : INFO] - Completed processing task with ID : 20, and type 'smush' 
+[2025-07-26 14:43:14 : INFO] - Processing task with ID : 21, and type 'smush' 
+[2025-07-26 14:43:14 : INFO] - Re_Smush_It_Task - Attachment ID : 1723, Started on : July 26, 2025 02:43:01 
+[2025-07-26 14:43:14 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:14 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:15 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:15 : INFO] - Completed processing task with ID : 21, and type 'smush' 
+[2025-07-26 14:43:15 : INFO] - Processing task with ID : 22, and type 'smush' 
+[2025-07-26 14:43:15 : INFO] - Re_Smush_It_Task - Attachment ID : 1724, Started on : July 26, 2025 02:43:01 
+[2025-07-26 14:43:15 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:15 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:16 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:16 : INFO] - Completed processing task with ID : 22, and type 'smush' 
+[2025-07-26 14:43:16 : INFO] - Processing task with ID : 23, and type 'smush' 
+[2025-07-26 14:43:16 : INFO] - Re_Smush_It_Task - Attachment ID : 1725, Started on : July 26, 2025 02:43:01 
+[2025-07-26 14:43:16 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:16 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:17 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:17 : INFO] - Completed processing task with ID : 23, and type 'smush' 
+[2025-07-26 14:43:17 : INFO] - Processing task with ID : 24, and type 'smush' 
+[2025-07-26 14:43:17 : INFO] - Re_Smush_It_Task - Attachment ID : 1748, Started on : July 26, 2025 02:43:01 
+[2025-07-26 14:43:17 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:17 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:17 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:17 : INFO] - Completed processing task with ID : 24, and type 'smush' 
+[2025-07-26 14:43:17 : INFO] - Processing task with ID : 25, and type 'smush' 
+[2025-07-26 14:43:17 : INFO] - Re_Smush_It_Task - Attachment ID : 1749, Started on : July 26, 2025 02:43:01 
+[2025-07-26 14:43:17 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:17 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:17 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:17 : INFO] - Completed processing task with ID : 25, and type 'smush' 
+[2025-07-26 14:43:17 : INFO] - Processing task with ID : 26, and type 'smush' 
+[2025-07-26 14:43:17 : INFO] - Re_Smush_It_Task - Attachment ID : 1750, Started on : July 26, 2025 02:43:01 
+[2025-07-26 14:43:17 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:17 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:18 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:18 : INFO] - Completed processing task with ID : 26, and type 'smush' 
+[2025-07-26 14:43:18 : INFO] - Processing task with ID : 27, and type 'smush' 
+[2025-07-26 14:43:18 : INFO] - Re_Smush_It_Task - Attachment ID : 1751, Started on : July 26, 2025 02:43:01 
+[2025-07-26 14:43:18 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:18 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:18 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:18 : INFO] - Completed processing task with ID : 27, and type 'smush' 
+[2025-07-26 14:43:18 : INFO] - Processing task with ID : 28, and type 'smush' 
+[2025-07-26 14:43:18 : INFO] - Re_Smush_It_Task - Attachment ID : 1752, Started on : July 26, 2025 02:43:01 
+[2025-07-26 14:43:18 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:19 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:19 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:19 : INFO] - Completed processing task with ID : 28, and type 'smush' 
+[2025-07-26 14:43:19 : INFO] - Processing task with ID : 29, and type 'smush' 
+[2025-07-26 14:43:19 : INFO] - Re_Smush_It_Task - Attachment ID : 1753, Started on : July 26, 2025 02:43:01 
+[2025-07-26 14:43:19 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:19 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:19 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:19 : INFO] - Completed processing task with ID : 29, and type 'smush' 
+[2025-07-26 14:43:19 : INFO] - Processing task with ID : 30, and type 'smush' 
+[2025-07-26 14:43:19 : INFO] - Re_Smush_It_Task - Attachment ID : 1787, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:19 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:20 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:20 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:20 : INFO] - Completed processing task with ID : 30, and type 'smush' 
+[2025-07-26 14:43:20 : INFO] - Processing task with ID : 31, and type 'smush' 
+[2025-07-26 14:43:20 : INFO] - Re_Smush_It_Task - Attachment ID : 1908, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:20 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:20 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:21 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:21 : INFO] - Completed processing task with ID : 31, and type 'smush' 
+[2025-07-26 14:43:21 : INFO] - Processing task with ID : 32, and type 'smush' 
+[2025-07-26 14:43:21 : INFO] - Re_Smush_It_Task - Attachment ID : 1909, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:21 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:21 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:21 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:21 : INFO] - Completed processing task with ID : 32, and type 'smush' 
+[2025-07-26 14:43:21 : INFO] - Processing task with ID : 33, and type 'smush' 
+[2025-07-26 14:43:21 : INFO] - Re_Smush_It_Task - Attachment ID : 1910, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:21 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:21 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:22 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:22 : INFO] - Completed processing task with ID : 33, and type 'smush' 
+[2025-07-26 14:43:22 : INFO] - Processing task with ID : 34, and type 'smush' 
+[2025-07-26 14:43:22 : INFO] - Re_Smush_It_Task - Attachment ID : 1911, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:22 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:22 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:23 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:23 : INFO] - Completed processing task with ID : 34, and type 'smush' 
+[2025-07-26 14:43:23 : INFO] - Processing task with ID : 35, and type 'smush' 
+[2025-07-26 14:43:23 : INFO] - Re_Smush_It_Task - Attachment ID : 1912, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:23 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:23 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:23 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:23 : INFO] - Completed processing task with ID : 35, and type 'smush' 
+[2025-07-26 14:43:23 : INFO] - Processing task with ID : 36, and type 'smush' 
+[2025-07-26 14:43:23 : INFO] - Re_Smush_It_Task - Attachment ID : 1913, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:23 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:23 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:24 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:24 : INFO] - Completed processing task with ID : 36, and type 'smush' 
+[2025-07-26 14:43:24 : INFO] - Processing task with ID : 37, and type 'smush' 
+[2025-07-26 14:43:24 : INFO] - Re_Smush_It_Task - Attachment ID : 1914, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:24 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:24 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:24 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:24 : INFO] - Completed processing task with ID : 37, and type 'smush' 
+[2025-07-26 14:43:24 : INFO] - Processing task with ID : 38, and type 'smush' 
+[2025-07-26 14:43:24 : INFO] - Re_Smush_It_Task - Attachment ID : 1915, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:24 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:24 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:25 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:25 : INFO] - Completed processing task with ID : 38, and type 'smush' 
+[2025-07-26 14:43:25 : INFO] - Processing task with ID : 39, and type 'smush' 
+[2025-07-26 14:43:25 : INFO] - Re_Smush_It_Task - Attachment ID : 1916, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:25 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:25 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:25 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:25 : INFO] - Completed processing task with ID : 39, and type 'smush' 
+[2025-07-26 14:43:25 : INFO] - Processing task with ID : 40, and type 'smush' 
+[2025-07-26 14:43:25 : INFO] - Re_Smush_It_Task - Attachment ID : 1917, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:25 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:25 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:26 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:26 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:26 : INFO] - Completed processing task with ID : 40, and type 'smush' 
+[2025-07-26 14:43:26 : INFO] - Processing task with ID : 41, and type 'smush' 
+[2025-07-26 14:43:26 : INFO] - Re_Smush_It_Task - Attachment ID : 1937, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:26 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:26 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:26 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:26 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:27 : INFO] - Completed processing task with ID : 41, and type 'smush' 
+[2025-07-26 14:43:27 : INFO] - Processing task with ID : 42, and type 'smush' 
+[2025-07-26 14:43:27 : INFO] - Re_Smush_It_Task - Attachment ID : 1938, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:27 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:27 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:27 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:27 : INFO] - Completed processing task with ID : 42, and type 'smush' 
+[2025-07-26 14:43:27 : INFO] - Processing task with ID : 43, and type 'smush' 
+[2025-07-26 14:43:27 : INFO] - Re_Smush_It_Task - Attachment ID : 1947, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:27 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:27 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:27 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:27 : INFO] - Completed processing task with ID : 43, and type 'smush' 
+[2025-07-26 14:43:27 : INFO] - Processing task with ID : 44, and type 'smush' 
+[2025-07-26 14:43:27 : INFO] - Re_Smush_It_Task - Attachment ID : 1948, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:27 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:28 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:28 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:28 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:28 : INFO] - Completed processing task with ID : 44, and type 'smush' 
+[2025-07-26 14:43:28 : INFO] - Processing task with ID : 45, and type 'smush' 
+[2025-07-26 14:43:28 : INFO] - Re_Smush_It_Task - Attachment ID : 1949, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:28 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:28 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:28 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:28 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:28 : INFO] - Completed processing task with ID : 45, and type 'smush' 
+[2025-07-26 14:43:28 : INFO] - Processing task with ID : 46, and type 'smush' 
+[2025-07-26 14:43:28 : INFO] - Re_Smush_It_Task - Attachment ID : 1950, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:28 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:29 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:29 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:29 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:29 : INFO] - Completed processing task with ID : 46, and type 'smush' 
+[2025-07-26 14:43:29 : INFO] - Processing task with ID : 47, and type 'smush' 
+[2025-07-26 14:43:29 : INFO] - Re_Smush_It_Task - Attachment ID : 1951, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:29 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:29 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:29 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:29 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:30 : INFO] - Completed processing task with ID : 47, and type 'smush' 
+[2025-07-26 14:43:30 : INFO] - Processing task with ID : 48, and type 'smush' 
+[2025-07-26 14:43:30 : INFO] - Re_Smush_It_Task - Attachment ID : 1952, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:30 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:30 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:30 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:30 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:30 : INFO] - Completed processing task with ID : 48, and type 'smush' 
+[2025-07-26 14:43:30 : INFO] - Processing task with ID : 49, and type 'smush' 
+[2025-07-26 14:43:30 : INFO] - Re_Smush_It_Task - Attachment ID : 1954, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:30 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:30 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:31 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:31 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:31 : INFO] - Completed processing task with ID : 49, and type 'smush' 
+[2025-07-26 14:43:31 : INFO] - Processing task with ID : 50, and type 'smush' 
+[2025-07-26 14:43:31 : INFO] - Re_Smush_It_Task - Attachment ID : 1955, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:31 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:31 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:31 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:31 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:31 : INFO] - Completed processing task with ID : 50, and type 'smush' 
+[2025-07-26 14:43:31 : INFO] - Processing task with ID : 51, and type 'smush' 
+[2025-07-26 14:43:31 : INFO] - Re_Smush_It_Task - Attachment ID : 1956, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:31 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:31 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:32 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:32 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:32 : INFO] - Completed processing task with ID : 51, and type 'smush' 
+[2025-07-26 14:43:32 : INFO] - Processing task with ID : 52, and type 'smush' 
+[2025-07-26 14:43:32 : INFO] - Re_Smush_It_Task - Attachment ID : 1957, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:32 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:32 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:32 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:32 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:32 : INFO] - Completed processing task with ID : 52, and type 'smush' 
+[2025-07-26 14:43:32 : INFO] - Processing task with ID : 53, and type 'smush' 
+[2025-07-26 14:43:32 : INFO] - Re_Smush_It_Task - Attachment ID : 1958, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:32 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:33 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:33 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:33 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:33 : INFO] - Completed processing task with ID : 53, and type 'smush' 
+[2025-07-26 14:43:33 : INFO] - Processing task with ID : 54, and type 'smush' 
+[2025-07-26 14:43:33 : INFO] - Re_Smush_It_Task - Attachment ID : 1961, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:33 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:33 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:34 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:34 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:34 : INFO] - Completed processing task with ID : 54, and type 'smush' 
+[2025-07-26 14:43:34 : INFO] - Processing task with ID : 55, and type 'smush' 
+[2025-07-26 14:43:34 : INFO] - Re_Smush_It_Task - Attachment ID : 1962, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:34 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:34 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:34 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:34 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:34 : INFO] - Completed processing task with ID : 55, and type 'smush' 
+[2025-07-26 14:43:34 : INFO] - Processing task with ID : 56, and type 'smush' 
+[2025-07-26 14:43:34 : INFO] - Re_Smush_It_Task - Attachment ID : 1971, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:34 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:34 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:35 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:35 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:35 : INFO] - Completed processing task with ID : 56, and type 'smush' 
+[2025-07-26 14:43:35 : INFO] - Processing task with ID : 57, and type 'smush' 
+[2025-07-26 14:43:35 : INFO] - Re_Smush_It_Task - Attachment ID : 1978, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:35 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:35 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:35 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:35 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:35 : INFO] - Completed processing task with ID : 57, and type 'smush' 
+[2025-07-26 14:43:35 : INFO] - Processing task with ID : 58, and type 'smush' 
+[2025-07-26 14:43:35 : INFO] - Re_Smush_It_Task - Attachment ID : 2019, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:35 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:35 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:36 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:36 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:36 : INFO] - Completed processing task with ID : 58, and type 'smush' 
+[2025-07-26 14:43:36 : INFO] - Processing task with ID : 59, and type 'smush' 
+[2025-07-26 14:43:36 : INFO] - Re_Smush_It_Task - Attachment ID : 2210, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:36 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:36 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:36 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:36 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:36 : INFO] - Completed processing task with ID : 59, and type 'smush' 
+[2025-07-26 14:43:36 : INFO] - Processing task with ID : 60, and type 'smush' 
+[2025-07-26 14:43:36 : INFO] - Re_Smush_It_Task - Attachment ID : 2216, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:36 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:36 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:37 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:37 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:37 : INFO] - Completed processing task with ID : 60, and type 'smush' 
+[2025-07-26 14:43:37 : INFO] - Processing task with ID : 61, and type 'smush' 
+[2025-07-26 14:43:37 : INFO] - Re_Smush_It_Task - Attachment ID : 2219, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:37 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:37 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:38 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:38 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:38 : INFO] - Completed processing task with ID : 61, and type 'smush' 
+[2025-07-26 14:43:38 : INFO] - Processing task with ID : 62, and type 'smush' 
+[2025-07-26 14:43:38 : INFO] - Re_Smush_It_Task - Attachment ID : 2220, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:38 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:38 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:38 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:38 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:38 : INFO] - Completed processing task with ID : 62, and type 'smush' 
+[2025-07-26 14:43:38 : INFO] - Processing task with ID : 63, and type 'smush' 
+[2025-07-26 14:43:38 : INFO] - Re_Smush_It_Task - Attachment ID : 2221, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:38 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:38 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:39 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:39 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:39 : INFO] - Completed processing task with ID : 63, and type 'smush' 
+[2025-07-26 14:43:39 : INFO] - Processing task with ID : 64, and type 'smush' 
+[2025-07-26 14:43:39 : INFO] - Re_Smush_It_Task - Attachment ID : 2232, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:39 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:39 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:39 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:39 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:39 : INFO] - Completed processing task with ID : 64, and type 'smush' 
+[2025-07-26 14:43:39 : INFO] - Processing task with ID : 65, and type 'smush' 
+[2025-07-26 14:43:39 : INFO] - Re_Smush_It_Task - Attachment ID : 2241, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:39 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:39 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:40 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:40 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:40 : INFO] - Completed processing task with ID : 65, and type 'smush' 
+[2025-07-26 14:43:40 : INFO] - Processing task with ID : 66, and type 'smush' 
+[2025-07-26 14:43:40 : INFO] - Re_Smush_It_Task - Attachment ID : 2244, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:40 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:40 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:40 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:40 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:40 : INFO] - Completed processing task with ID : 66, and type 'smush' 
+[2025-07-26 14:43:40 : INFO] - Processing task with ID : 67, and type 'smush' 
+[2025-07-26 14:43:40 : INFO] - Re_Smush_It_Task - Attachment ID : 2257, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:40 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:40 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:41 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:41 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:41 : INFO] - Completed processing task with ID : 67, and type 'smush' 
+[2025-07-26 14:43:41 : INFO] - Processing task with ID : 68, and type 'smush' 
+[2025-07-26 14:43:41 : INFO] - Re_Smush_It_Task - Attachment ID : 2273, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:41 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:41 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:41 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:41 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:41 : INFO] - Completed processing task with ID : 68, and type 'smush' 
+[2025-07-26 14:43:41 : INFO] - Processing task with ID : 69, and type 'smush' 
+[2025-07-26 14:43:41 : INFO] - Re_Smush_It_Task - Attachment ID : 2285, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:41 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:41 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:42 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:42 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:42 : INFO] - Completed processing task with ID : 69, and type 'smush' 
+[2025-07-26 14:43:42 : INFO] - Processing task with ID : 70, and type 'smush' 
+[2025-07-26 14:43:42 : INFO] - Re_Smush_It_Task - Attachment ID : 2286, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:42 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:42 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:42 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:42 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:42 : INFO] - Completed processing task with ID : 70, and type 'smush' 
+[2025-07-26 14:43:42 : INFO] - Processing task with ID : 71, and type 'smush' 
+[2025-07-26 14:43:42 : INFO] - Re_Smush_It_Task - Attachment ID : 2287, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:42 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:42 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:43 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:43 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:43 : INFO] - Completed processing task with ID : 71, and type 'smush' 
+[2025-07-26 14:43:43 : INFO] - Processing task with ID : 72, and type 'smush' 
+[2025-07-26 14:43:43 : INFO] - Re_Smush_It_Task - Attachment ID : 2288, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:43 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:43 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:43 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:43 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:43 : INFO] - Completed processing task with ID : 72, and type 'smush' 
+[2025-07-26 14:43:43 : INFO] - Processing task with ID : 73, and type 'smush' 
+[2025-07-26 14:43:43 : INFO] - Re_Smush_It_Task - Attachment ID : 2300, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:43 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:44 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:44 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:44 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:44 : INFO] - Completed processing task with ID : 73, and type 'smush' 
+[2025-07-26 14:43:44 : INFO] - Processing task with ID : 74, and type 'smush' 
+[2025-07-26 14:43:44 : INFO] - Re_Smush_It_Task - Attachment ID : 2304, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:44 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:44 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:44 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:44 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:44 : INFO] - Completed processing task with ID : 74, and type 'smush' 
+[2025-07-26 14:43:44 : INFO] - Processing task with ID : 75, and type 'smush' 
+[2025-07-26 14:43:44 : INFO] - Re_Smush_It_Task - Attachment ID : 2328, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:44 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:45 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:45 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:45 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:45 : INFO] - Completed processing task with ID : 75, and type 'smush' 
+[2025-07-26 14:43:45 : INFO] - Processing task with ID : 76, and type 'smush' 
+[2025-07-26 14:43:45 : INFO] - Re_Smush_It_Task - Attachment ID : 2365, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:45 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:45 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:46 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:46 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:46 : INFO] - Completed processing task with ID : 76, and type 'smush' 
+[2025-07-26 14:43:46 : INFO] - Processing task with ID : 77, and type 'smush' 
+[2025-07-26 14:43:46 : INFO] - Re_Smush_It_Task - Attachment ID : 2369, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:46 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:46 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:46 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:46 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:46 : INFO] - Completed processing task with ID : 77, and type 'smush' 
+[2025-07-26 14:43:46 : INFO] - Processing task with ID : 78, and type 'smush' 
+[2025-07-26 14:43:46 : INFO] - Re_Smush_It_Task - Attachment ID : 2406, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:46 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:47 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:47 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:47 : INFO] - Completed processing task with ID : 78, and type 'smush' 
+[2025-07-26 14:43:47 : INFO] - Processing task with ID : 79, and type 'smush' 
+[2025-07-26 14:43:47 : INFO] - Re_Smush_It_Task - Attachment ID : 2408, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:47 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:47 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:47 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:47 : INFO] - Completed processing task with ID : 79, and type 'smush' 
+[2025-07-26 14:43:47 : INFO] - Processing task with ID : 80, and type 'smush' 
+[2025-07-26 14:43:47 : INFO] - Re_Smush_It_Task - Attachment ID : 2409, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:47 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:48 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:48 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:48 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:48 : INFO] - Completed processing task with ID : 80, and type 'smush' 
+[2025-07-26 14:43:48 : INFO] - Processing task with ID : 81, and type 'smush' 
+[2025-07-26 14:43:48 : INFO] - Re_Smush_It_Task - Attachment ID : 2444, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:48 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:48 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:49 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:49 : INFO] - Completed processing task with ID : 81, and type 'smush' 
+[2025-07-26 14:43:49 : INFO] - Processing task with ID : 82, and type 'smush' 
+[2025-07-26 14:43:49 : INFO] - Re_Smush_It_Task - Attachment ID : 2445, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:49 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:49 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:49 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:49 : INFO] - Completed processing task with ID : 82, and type 'smush' 
+[2025-07-26 14:43:49 : INFO] - Processing task with ID : 83, and type 'smush' 
+[2025-07-26 14:43:49 : INFO] - Re_Smush_It_Task - Attachment ID : 2521, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:49 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:49 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:50 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:50 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:50 : INFO] - Completed processing task with ID : 83, and type 'smush' 
+[2025-07-26 14:43:50 : INFO] - Processing task with ID : 84, and type 'smush' 
+[2025-07-26 14:43:50 : INFO] - Re_Smush_It_Task - Attachment ID : 2522, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:50 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:50 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:50 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:50 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:50 : INFO] - Completed processing task with ID : 84, and type 'smush' 
+[2025-07-26 14:43:50 : INFO] - Processing task with ID : 85, and type 'smush' 
+[2025-07-26 14:43:50 : INFO] - Re_Smush_It_Task - Attachment ID : 2523, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:50 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:51 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:51 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:51 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:51 : INFO] - Completed processing task with ID : 85, and type 'smush' 
+[2025-07-26 14:43:51 : INFO] - Processing task with ID : 86, and type 'smush' 
+[2025-07-26 14:43:51 : INFO] - Re_Smush_It_Task - Attachment ID : 2621, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:51 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:51 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:52 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:52 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:52 : INFO] - Completed processing task with ID : 86, and type 'smush' 
+[2025-07-26 14:43:52 : INFO] - Processing task with ID : 87, and type 'smush' 
+[2025-07-26 14:43:52 : INFO] - Re_Smush_It_Task - Attachment ID : 2622, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:52 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:52 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:52 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:52 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:52 : INFO] - Completed processing task with ID : 87, and type 'smush' 
+[2025-07-26 14:43:52 : INFO] - Processing task with ID : 88, and type 'smush' 
+[2025-07-26 14:43:52 : INFO] - Re_Smush_It_Task - Attachment ID : 2623, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:52 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:52 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:53 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:53 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:53 : INFO] - Completed processing task with ID : 88, and type 'smush' 
+[2025-07-26 14:43:53 : INFO] - Processing task with ID : 89, and type 'smush' 
+[2025-07-26 14:43:53 : INFO] - Re_Smush_It_Task - Attachment ID : 2706, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:53 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:53 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:53 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:53 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:53 : INFO] - Completed processing task with ID : 89, and type 'smush' 
+[2025-07-26 14:43:53 : INFO] - Processing task with ID : 90, and type 'smush' 
+[2025-07-26 14:43:53 : INFO] - Re_Smush_It_Task - Attachment ID : 2744, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:53 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:54 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:54 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:54 : INFO] - Completed processing task with ID : 90, and type 'smush' 
+[2025-07-26 14:43:54 : INFO] - Processing task with ID : 91, and type 'smush' 
+[2025-07-26 14:43:54 : INFO] - Re_Smush_It_Task - Attachment ID : 2881, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:54 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:54 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:55 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:55 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:55 : INFO] - Completed processing task with ID : 91, and type 'smush' 
+[2025-07-26 14:43:55 : INFO] - Processing task with ID : 92, and type 'smush' 
+[2025-07-26 14:43:55 : INFO] - Re_Smush_It_Task - Attachment ID : 3032, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:55 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:55 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:55 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:55 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:55 : INFO] - Completed processing task with ID : 92, and type 'smush' 
+[2025-07-26 14:43:55 : INFO] - Processing task with ID : 93, and type 'smush' 
+[2025-07-26 14:43:55 : INFO] - Re_Smush_It_Task - Attachment ID : 3039, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:55 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:55 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:56 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:56 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:56 : INFO] - Completed processing task with ID : 93, and type 'smush' 
+[2025-07-26 14:43:56 : INFO] - Processing task with ID : 94, and type 'smush' 
+[2025-07-26 14:43:56 : INFO] - Re_Smush_It_Task - Attachment ID : 3095, Started on : July 26, 2025 02:43:02 
+[2025-07-26 14:43:56 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:56 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:56 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:56 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:56 : INFO] - Completed processing task with ID : 94, and type 'smush' 
+[2025-07-26 14:43:56 : INFO] - Processing task with ID : 95, and type 'smush' 
+[2025-07-26 14:43:56 : INFO] - Re_Smush_It_Task - Attachment ID : 3111, Started on : July 26, 2025 02:43:03 
+[2025-07-26 14:43:56 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:57 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:57 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:57 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:57 : INFO] - Completed processing task with ID : 95, and type 'smush' 
+[2025-07-26 14:43:57 : INFO] - Processing task with ID : 96, and type 'smush' 
+[2025-07-26 14:43:57 : INFO] - Re_Smush_It_Task - Attachment ID : 3246, Started on : July 26, 2025 02:43:03 
+[2025-07-26 14:43:57 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:57 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:58 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:58 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:58 : INFO] - Completed processing task with ID : 96, and type 'smush' 
+[2025-07-26 14:43:58 : INFO] - Processing task with ID : 97, and type 'smush' 
+[2025-07-26 14:43:58 : INFO] - Re_Smush_It_Task - Attachment ID : 3268, Started on : July 26, 2025 02:43:03 
+[2025-07-26 14:43:58 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:58 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:58 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:58 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:58 : INFO] - Completed processing task with ID : 97, and type 'smush' 
+[2025-07-26 14:43:58 : INFO] - Processing task with ID : 98, and type 'smush' 
+[2025-07-26 14:43:58 : INFO] - Re_Smush_It_Task - Attachment ID : 3269, Started on : July 26, 2025 02:43:03 
+[2025-07-26 14:43:58 : INFO] - File: Image_Placeholder_Hero.jpeg, Compression quality: 92 
+[2025-07-26 14:43:58 : INFO] - Backing up the original image - 2025/06/Image_Placeholder_Hero-updraft-pre-smush-original.jpeg 
+[2025-07-26 14:43:58 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-07-26 14:43:58 : INFO] - Successfully optimized the image - /s3-seesalt/wordpress/wp-content/uploads/2025/06/Image_Placeholder_Hero.jpeg.The file was compressed from 3.95 KB to 3.95 KB, saving 0 percent, using WP-Optimize 
+[2025-07-26 14:43:58 : INFO] - Completed processing task with ID : 98, and type 'smush' 
+[2025-07-26 14:43:58 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-07-26 14:43:58 : INFO] - Successfully processed the queue (smush). 98 tasks were processed out of 98. 
+[2025-07-26 14:43:58 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-07-26 14:43:58 : INFO] - Cleaning up tasks of type (smush). A total of 98 tasks will be deleted. 
+[2025-07-26 19:50:47 : INFO] - Pruning the smush log file 

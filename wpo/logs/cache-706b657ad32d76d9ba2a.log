@@ -1,0 +1,61 @@
+[2025-10-28 09:42:52 : INFO] - Full Cache Purge triggered by action: wpo_active_plugin_or_theme_updated 
+[2025-10-28 09:42:56 : INFO] - Pruning the Cache log file 
+[2025-10-28 09:52:38 : INFO] - Full Cache Purge triggered by action: wpo_active_plugin_or_theme_updated 
+[2025-10-28 09:52:42 : INFO] - Full Cache Purge triggered by: WP_Optimize_Cache_Commands::purge_page_cache 
+[2025-10-28 09:53:22 : INFO] - Full Cache Purge triggered by: WP_Optimize_Minify_Cache_Functions::purge_others 
+[2025-10-30 09:36:09 : INFO] - Full Cache Purge triggered by action: customize_save_after 
+[2025-10-30 09:42:14 : INFO] - Full Cache Purge triggered by action: customize_save_after 
+[2025-10-30 09:47:24 : INFO] - Cache for URL: https://innocentwindow.s6-tastewp.com/ has been purged, triggered by action: save_post 
+[2025-10-30 09:47:24 : INFO] - Cache for author page URL: https://innocentwindow.s6-tastewp.com/author/hocinemadoui/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-10-30 09:47:24 : INFO] - Cache for URL: https://innocentwindow.s6-tastewp.com/ has been purged, triggered by action: save_post 
+[2025-10-30 09:47:24 : INFO] - Cache for author page URL: https://innocentwindow.s6-tastewp.com/author/hocinemadoui/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-10-30 09:47:24 : INFO] - Cache for URL: https://innocentwindow.s6-tastewp.com/ has been purged, triggered by action: save_post 
+[2025-10-30 09:47:24 : INFO] - Cache for author page URL: https://innocentwindow.s6-tastewp.com/author/hocinemadoui/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-10-30 09:47:44 : INFO] - Cache for URL: https://innocentwindow.s6-tastewp.com/ has been purged, triggered by action: save_post 
+[2025-10-30 09:47:44 : INFO] - Cache for author page URL: https://innocentwindow.s6-tastewp.com/author/hocinemadoui/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-10-30 09:47:44 : INFO] - Cache for URL: https://innocentwindow.s6-tastewp.com/ has been purged, triggered by action: save_post 
+[2025-10-30 09:47:44 : INFO] - Cache for author page URL: https://innocentwindow.s6-tastewp.com/author/hocinemadoui/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-10-30 09:47:44 : INFO] - Cache for URL: https://innocentwindow.s6-tastewp.com/ has been purged, triggered by action: save_post 
+[2025-10-30 09:47:44 : INFO] - Cache for author page URL: https://innocentwindow.s6-tastewp.com/author/hocinemadoui/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-10-30 09:49:01 : INFO] - Cache for URL: https://innocentwindow.s6-tastewp.com/ has been purged, triggered by action: save_post 
+[2025-10-30 09:49:01 : INFO] - Cache for author page URL: https://innocentwindow.s6-tastewp.com/author/hocinemadoui/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-10-30 09:49:01 : INFO] - Cache for URL: https://innocentwindow.s6-tastewp.com/ has been purged, triggered by action: save_post 
+[2025-10-30 09:49:01 : INFO] - Cache for author page URL: https://innocentwindow.s6-tastewp.com/author/hocinemadoui/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-10-30 09:49:01 : INFO] - Cache for URL: https://innocentwindow.s6-tastewp.com/ has been purged, triggered by action: save_post 
+[2025-10-30 09:49:01 : INFO] - Cache for author page URL: https://innocentwindow.s6-tastewp.com/author/hocinemadoui/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-10-30 09:50:15 : INFO] - Cache for URL: https://innocentwindow.s6-tastewp.com/ has been purged, triggered by action: save_post 
+[2025-10-30 09:50:15 : INFO] - Cache for author page URL: https://innocentwindow.s6-tastewp.com/author/hocinemadoui/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-10-30 09:50:15 : INFO] - Cache for URL: https://innocentwindow.s6-tastewp.com/ has been purged, triggered by action: save_post 
+[2025-10-30 09:50:15 : INFO] - Cache for author page URL: https://innocentwindow.s6-tastewp.com/author/hocinemadoui/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-10-30 09:50:15 : INFO] - Cache for URL: https://innocentwindow.s6-tastewp.com/ has been purged, triggered by action: save_post 
+[2025-10-30 09:50:15 : INFO] - Cache for author page URL: https://innocentwindow.s6-tastewp.com/author/hocinemadoui/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-10-30 09:50:44 : INFO] - Cache for URL: https://innocentwindow.s6-tastewp.com/ has been purged, triggered by action: save_post 
+[2025-10-30 09:50:44 : INFO] - Cache for author page URL: https://innocentwindow.s6-tastewp.com/author/hocinemadoui/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-10-30 09:50:44 : INFO] - Cache for URL: https://innocentwindow.s6-tastewp.com/ has been purged, triggered by action: save_post 
+[2025-10-30 09:50:44 : INFO] - Cache for author page URL: https://innocentwindow.s6-tastewp.com/author/hocinemadoui/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-10-30 09:50:44 : INFO] - Cache for URL: https://innocentwindow.s6-tastewp.com/ has been purged, triggered by action: save_post 
+[2025-10-30 09:50:44 : INFO] - Cache for author page URL: https://innocentwindow.s6-tastewp.com/author/hocinemadoui/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-10-30 09:51:43 : INFO] - Cache for URL: https://innocentwindow.s6-tastewp.com/ has been purged, triggered by action: save_post 
+[2025-10-30 09:51:43 : INFO] - Cache for author page URL: https://innocentwindow.s6-tastewp.com/author/hocinemadoui/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-10-30 09:51:43 : INFO] - Cache for URL: https://innocentwindow.s6-tastewp.com/ has been purged, triggered by action: save_post 
+[2025-10-30 09:51:43 : INFO] - Cache for author page URL: https://innocentwindow.s6-tastewp.com/author/hocinemadoui/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-10-30 09:51:44 : INFO] - Cache for URL: https://innocentwindow.s6-tastewp.com/ has been purged, triggered by action: save_post 
+[2025-10-30 09:51:44 : INFO] - Cache for author page URL: https://innocentwindow.s6-tastewp.com/author/hocinemadoui/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-10-30 09:52:29 : INFO] - Cache for URL: https://innocentwindow.s6-tastewp.com/ has been purged, triggered by action: save_post 
+[2025-10-30 09:52:29 : INFO] - Cache for author page URL: https://innocentwindow.s6-tastewp.com/author/hocinemadoui/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-10-30 09:52:29 : INFO] - Cache for URL: https://innocentwindow.s6-tastewp.com/ has been purged, triggered by action: save_post 
+[2025-10-30 09:52:29 : INFO] - Cache for author page URL: https://innocentwindow.s6-tastewp.com/author/hocinemadoui/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-10-30 09:52:29 : INFO] - Cache for URL: https://innocentwindow.s6-tastewp.com/ has been purged, triggered by action: save_post 
+[2025-10-30 09:52:29 : INFO] - Cache for author page URL: https://innocentwindow.s6-tastewp.com/author/hocinemadoui/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-10-30 09:53:03 : INFO] - Cache for URL: https://innocentwindow.s6-tastewp.com/ has been purged, triggered by action: save_post 
+[2025-10-30 09:53:03 : INFO] - Cache for author page URL: https://innocentwindow.s6-tastewp.com/author/hocinemadoui/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-10-30 09:53:03 : INFO] - Cache for URL: https://innocentwindow.s6-tastewp.com/ has been purged, triggered by action: save_post 
+[2025-10-30 09:53:03 : INFO] - Cache for author page URL: https://innocentwindow.s6-tastewp.com/author/hocinemadoui/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-10-30 09:53:03 : INFO] - Cache for URL: https://innocentwindow.s6-tastewp.com/ has been purged, triggered by action: save_post 
+[2025-10-30 09:53:03 : INFO] - Cache for author page URL: https://innocentwindow.s6-tastewp.com/author/hocinemadoui/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-10-30 09:53:11 : INFO] - Cache for URL: https://innocentwindow.s6-tastewp.com/ has been purged, triggered by action: save_post 
+[2025-10-30 09:53:11 : INFO] - Cache for author page URL: https://innocentwindow.s6-tastewp.com/author/hocinemadoui/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-10-30 09:53:11 : INFO] - Cache for URL: https://innocentwindow.s6-tastewp.com/ has been purged, triggered by action: save_post 
+[2025-10-30 09:53:11 : INFO] - Cache for author page URL: https://innocentwindow.s6-tastewp.com/author/hocinemadoui/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-10-30 09:53:12 : INFO] - Cache for URL: https://innocentwindow.s6-tastewp.com/ has been purged, triggered by action: save_post 
+[2025-10-30 09:53:12 : INFO] - Cache for author page URL: https://innocentwindow.s6-tastewp.com/author/hocinemadoui/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
